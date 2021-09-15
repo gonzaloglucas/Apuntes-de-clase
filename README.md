@@ -32,4 +32,4 @@
 - 1966, intenta emplear los métodos de investigación de las ciencias sociales **(METODOLOGÍA DE INVESTIGACIÓN)**
 # Investigación
 - Spotlight, recopilar datos en bibliotecas.
-- 
+- Encu
