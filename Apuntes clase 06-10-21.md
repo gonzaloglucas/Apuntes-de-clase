@@ -8,4 +8,24 @@
 - Computed Assisted Reporting. (periodismo asistido por tecnología)
 - *nano*: comando que es un editor de texto.
 - *(hemos hecho apt-cyg install nano)*
+- Ahora si ponemos *nano* nos pone Búfer Nuevo
+- **El *^* es equivalente a la tecla *Ctrl***
+- *Ctrl + x* y sales del nano
+- *nano /etc/nsswitch.conf*
+- **Con el tabulador se te autocompletan los comandos**
+  - *db_home: windows* desde el nsswitch.conf; lo guardamos y le damos a enter.
+- **lo que tiene una # delante NO SE LEE**. Prueba a escribir ahí
+- **Comando copiar: origen y luego destino**
+  - *cp .bash*
+- Ejemplo, *.bash(asterisco)* te garantiza los tres tipos de bash que hay de golpe.
+- Para windows es *cp .bash(asterisco) /cygdrive/c/Documents\ and\ Settings/Usuario*
+- Creamos el archivo con *mkdir (nombre)*
+- Para representar un (espacio) se pone una (barra invertida): \
+- Lo último es el destino, así lo detecta
+- Comando *whoami* y te dice quién eres: el usuario (Usuario eres tú gonchi)
+- Ctrl + D para salirte de Cygwin
+- Ctrl + L para limpiar el feed
+- Comando *mv*
+- *lynx -source (pegas la dirección del csv copiado de datos.gob.es con Ctrlv)*
+- le pones al final: * > nacimientos.csv*
 - 
