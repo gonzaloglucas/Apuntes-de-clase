@@ -6,4 +6,6 @@
 - Revuelta para el avance, migraciones.
 - Vienen de Vietnam.
 - Computed Assisted Reporting. (periodismo asistido por tecnología)
+- *nano*: comando que es un editor de texto.
+- *(hemos hecho apt-cyg install nano)*
 - 
