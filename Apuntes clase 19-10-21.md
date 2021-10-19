@@ -22,4 +22,3 @@
 - **sl | lolcat**; en general el comando más la barra vertical y lolcat lo cambia de color nada más
 - Con esto nos sale ahora el trenecito en arcoíris
 - *echo 'export PATH=$PATH::/cygdrive/c/Users/Usuario/bin >> .bashrc*
-- 
