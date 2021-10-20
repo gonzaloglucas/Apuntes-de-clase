@@ -17,7 +17,8 @@
 - *apt-cyg install libcurl4 libcurl-devel*
 - *git remote -v* y te devuelve dos cosillas
 ### VENGA VA A TOPE
-- **git add**
-- **git commit**
-- **git puss** sirve para subir, empujar
+- Cogemos la dirección de nuestro repositorio github (CODE verde)
+- **git add** o **git add.(tabulamos o rellenamos con una serie de archivos o carpetas**
+- **git commit** una vez hecho lo anterior, hacemos git commit
+- **git puss** sirve para subir, empujar. Lo hacemos al final.
 - 
