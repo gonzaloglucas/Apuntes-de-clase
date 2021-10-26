@@ -11,5 +11,7 @@
 - Sirve para pintar mapas
 - con el comando **cd ..** cambias a un directorio superior
 - **git clone** (+ dirección del código de nuestro repositorio)
-- comando **mv (origen) (destino)**
+- comando **mv (origen, nombre antiguo/) (destino, nombre nuevo)**
+- también vale para moverlo de lugar.
+- **&&** para que después del primer comando haga el siguiente.
 - 
