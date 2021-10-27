@@ -8,4 +8,5 @@
 - *hostname(tab)* nos dice lo que va después de nuestra @
 - **NANO** es para ABRIR ARCHIVOS
 - Nano es como un word.
+- *git clone https://github.com/pontedatos/uc3m-periodismo-datos.git Documents/otro*
 - 
