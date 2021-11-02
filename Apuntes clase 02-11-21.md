@@ -16,4 +16,6 @@
 - Si hacemos **pwd** nos lo demuestra que tenemos puesta la variable home
 - Gracias a esto **PODEMOS VER LOS ARCHIVOS DESDE LA TERMINAL**
 - Por eso con nuestra **pwd** vemos que estamos en /Cygdrive/c
+- **CTRL+D para salir de (lolcat) o de (cat)**
+- **CTRL+G para anular el comando**
 - 
