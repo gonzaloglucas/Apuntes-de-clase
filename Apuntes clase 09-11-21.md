@@ -10,4 +10,5 @@
 - **nano feliz.csv** en repositorio-profe/src/data
 - Con **git remote -v** ves de dónde estás descargando los datos.... PULL Y PUSH!!!
 - Desde el repositorio del profe escribimos **nano sesiones/(año-mes-día).md**
+- **HE CREADO UN "TOKEN" CON PABLO** para así poder hacer git push de mis apuntes de clase desde cygwin
 - 
