@@ -9,4 +9,5 @@
 - Y hacemos ^x para ver lo que había dentro
 - **nano feliz.csv** en repositorio-profe/src/data
 - Con **git remote -v** ves de dónde estás descargando los datos.... PULL Y PUSH!!!
+- Desde el repositorio del profe escribimos **nano sesiones/(año-mes-día).md**
 - 
