@@ -12,4 +12,8 @@
 - Cargamos un csv a **OPENREFINE** y se transforma.
 - Allí podemos visualizar según qué tipo de separación tenga.
 - Los separa por columnas, etc.
+- Editar columna; *remove this columns* si no nos interesa.
+- **como excel**
+- Para elegir qué valor es hacemos:
+- Edit cells, commo transformations, to date.
 - 
