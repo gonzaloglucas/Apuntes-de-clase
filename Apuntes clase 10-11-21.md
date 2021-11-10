@@ -1,8 +1,8 @@
 # DESDE CYGWIN
 
 - **git clone**
-- **git add**
-- **git commit -m**
+- **git add Comentario-infografia-uno**
+- **git commit -m "Comentario-infografia-uno"**
 - **git push -u**
 - Recuerda usar tu gonzaloglucas
 - Y la pasword de tu token cuando lo hagas
