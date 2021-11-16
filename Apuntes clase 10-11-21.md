@@ -1,7 +1,7 @@
 # DESDE CYGWIN
 
 - **git clone**
-- **git add Comentario-infografia-uno**
+- **git add Comentario-infografia-uno.md**
 - **git commit -m "Comentario-infografia-uno"**
 - **git push -u**
 - Recuerda usar tu gonzaloglucas
