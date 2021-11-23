@@ -20,9 +20,9 @@
 - Abrimos *echo '*
 - Hemos escrito ahí dentro del *echo '* lo siguiente
   - set linenumbers
-  - # con esto numero las líneas
+  - (el paréntesis no)# con esto numero las líneas
   - set softwrap
-  - # con esto ajusto las líneas a la pantalla
+  - (el apréntesis no)# con esto ajusto las líneas a la pantalla
   - ' >>nanorc
 - **recapitulemos** (ESTOS DOS SETS SON LOS QUE LES HEMOS QUITADO EN .nanorc SU #)
 - **GRACIAS A ESTO EN NANO SE NOS PUNTÚAN LAS FILAS!!!!!!!!!!!!!!!!!!!!**
