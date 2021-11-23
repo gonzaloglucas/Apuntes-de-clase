@@ -27,4 +27,15 @@
 - **recapitulemos** (ESTOS DOS SETS SON LOS QUE LES HEMOS QUITADO EN .nanorc SU #)
 - **GRACIAS A ESTO EN NANO SE NOS PUNTÚAN LAS FILAS!!!!!!!!!!!!!!!!!!!!**
 - ESTO ES IMPRESIONANTE Y ADEMÁS ÚTIL!!!!!!!!
+
+# VOLVEMOS A OPENREFINE.. >:(
+
+- Click en la pestaña de la columna elegida
+- Edit column
+- Add column based on this column
+- Arriba lo nombramos 'prueba'
+- Escribimos debajo lo siguiente:
+- *value.facetCount("value";"Tweet(nombre de la columna original)")
+- SE CREA OTRA COLUMNA!! **Y NOS CUENTA EL NÚMERO DE VECES QUE SE REPITE!!!!!!!!!!!!!!!!!!!!!!**
+- wow
 - 
