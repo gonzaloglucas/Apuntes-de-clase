@@ -17,3 +17,5 @@ Guayando
 - Dentro de la línea *title* modificamos cómo se lee la pestaña de la web ^^
 - **EL EXAMEN ES TEÓRICO COMO UNA ENTREGA DESDE NANO A GITHUB Y AGREGAR EL LINK A AULA**
 - Preguntas cortas más alguna de desarrollo
+- CON CTRL+K rebientas la línea y la borras que no te gusta eh.
+- 
