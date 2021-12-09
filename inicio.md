@@ -1,4 +1,5 @@
-#¡Bienvenido/a!
+# ¡Bienvenido/a!
+![metalocus_biblioteca-getafe_14_1080_0](https://user-images.githubusercontent.com/90325917/145478452-18c70087-689c-404e-be66-72bac2922728.jpg)
 
 ### Soy Gonzalo Giménez y este es mi proytecto final para la asignatura de Periodismo de Datos.
 
@@ -9,4 +10,3 @@
   - En la tercera pestaña llamada **Práctica 3** hay disponible un análisis sobre la evolución de un tweet en el tiempo.
   - En la cuarta pestaña llamada **Práctica 4** tendremos un extenso comentario sobre la inversión en I+D por autonomías.
   - Por último, en la pestaña de **Metodología** explico de forma más pausada el prodecimiento de creación del proyecto.
-  
